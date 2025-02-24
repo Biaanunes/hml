@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+
+<body>
+<!--rodapé (footer)-->
+    <footer>
+            <div>
+            <h1>Contatos</h1>
+             <ul>
+                <li> 11981517457 </li>
+                <li> 13871347329 </li>
+                <li> 11947578990 </li>
+             </ul>
+            </div>
+
+            <div>
+                <h1>Endereço</h1>
+                 <ul>
+                    <li> Rua ipiranga, 233 </li>
+                    <li> Av. cristal de açucar, 777 </li>
+                    <li> Alameda pedro robero VI, 320 </li>
+                </ul>
+            </div>
+            
+            <div>
+                <h1>Rede Sociais</h1>
+                 <ul>
+                    <li> insagram </li>
+                    <li> twitter </li>
+                    <li>tik tok </li>
+                </ul>
+            </div>
+
+    </footer>
+
+</body>
+</html>
